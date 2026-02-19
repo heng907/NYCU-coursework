@@ -48,7 +48,7 @@
 - Topics: User management, service configuration, scripting, cron jobs
 
 ### Introduction to Network Programming
-- Homeworks: [Multi-player games](https://github.com/heng907/Network-Programming.git)
+- [Homeworks](https://github.com/heng907/Network-Programming.git)
 - Topics: TCP/UDP sockets, concurrency, client-server architecture
 
 
