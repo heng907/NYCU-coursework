@@ -58,7 +58,7 @@
 - Topics: Cryptography, various kinds of Security
 
 ### Cryptography Engineering
-- Homeworks: [GitHub Repo](https://github.com/heng907/Cryptography-Engineering.git)
+- [Homeworks](https://github.com/heng907/Cryptography-Engineering.git)
 - Topics: Practical implementations of cryptographic algorithms, including AES (ECB/CBC), RSA encryption & signature schemes,  etc.
 
 
@@ -67,9 +67,9 @@
 
 ### Introduction to Database Systems
 - [Project](https://github.com/2023FallDatabase/FinalProject.git)
-- Homeworks: [](https://github.com/heng907/Introduciotn-to-Database.git)
+- [Homeworks](https://github.com/heng907/Introduciotn-to-Database.git)
 - Topics: ER modeling, SQL joins, indexing, transactions
 
 ### Numerical Methods
-- Project: [Numerical Labs](https://github.com/heng907/Numerical-Methods.git)
+- [Homeworks](https://github.com/heng907/Numerical-Methods.git)
 - Topics: Iterative solvers, interpolation, numerical integration
