@@ -37,22 +37,32 @@
 - Topics: Filtering, Laplacian pyramids, contrast enhancement, auto white balancing
 
 
+### Introduction to Graph-Theory
+- Homeworks: [Introduction to Graph-Theory](https://github.com/heng907/Introduciton-to-Graph-Theory.git)
+- Topics: Graphs, Algorithm
+
+### Signal and System
+- Topics: Discrete and Continuous signal, Fourier Analysis, Laplace Transform
+
+### Computer Animation and Special Effect 
+- Homeworks: [Computer Animation and Special Effect](https://github.com/heng907/Computer-Animation-and-Special-Effects.git)
+- Topics: Numerical Analysis, Particle Systems, Skeletal Animation & Kinematics
+
 ## Networks & Systems
 
 ### Introduction to Computer Networks
 - [Homeworks](https://github.com/heng907/Introduction-to-Computer-Network.git)
 - Topics: OSI model, TCP/IP stack, routing, congestion control
 
-### System Administration (SA)
-- Project: FreeBSD/Linux Labs
-- Topics: User management, service configuration, scripting, cron jobs
-
 ### Introduction to Network Programming
 - [Homeworks](https://github.com/heng907/Network-Programming.git)
 - Topics: TCP/UDP sockets, concurrency, client-server architecture
 
+### System Administration (SA)
+- Project: FreeBSD/Linux Labs
+- Topics: User management, service configuration, scripting, cron jobs
 
-## Security & Crypto
+## Crpto & Security
 ### Networks Security
 - [Homeworks](https://github.com/heng907/Network-Security.git)
 - Topics: Cryptography, various kinds of Security
@@ -60,7 +70,6 @@
 ### Cryptography Engineering
 - [Homeworks](https://github.com/heng907/Cryptography-Engineering.git)
 - Topics: Practical implementations of cryptographic algorithms, including AES (ECB/CBC), RSA encryption & signature schemes,  etc.
-
 
 
 ## Data & Visualization
