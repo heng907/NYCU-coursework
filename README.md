@@ -62,7 +62,7 @@
 - Project: FreeBSD/Linux Labs
 - Topics: User management, service configuration, scripting, cron jobs
 
-## Crpto & Security
+## Crypto & Security
 ### Networks Security
 - [Homeworks](https://github.com/heng907/Network-Security.git)
 - Topics: Cryptography, various kinds of Security
