@@ -72,7 +72,7 @@
 - Topics: Practical implementations of cryptographic algorithms, including AES (ECB/CBC), RSA encryption & signature schemes,  etc.
 
 
-## Data & Visualization
+## Data Management
 
 ### Introduction to Database Systems
 - [Project](https://github.com/2023FallDatabase/FinalProject.git)
